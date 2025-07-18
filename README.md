@@ -10,7 +10,7 @@ This project demonstrates a fully automated, event-driven pipeline for ingesting
 
 The entire pipeline is deployed on AWS and operates without manual intervention. It is built on a serverless, event-driven architecture that ensures scalability and cost-efficiency by only running when new data is available.
 
-![Project Architecture Diagram](architecture.png)
+![Project Architecture Diagram](arch.png)
 
 ### Workflow Breakdown:
 
